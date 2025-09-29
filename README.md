@@ -1,10 +1,10 @@
-## Welcome ʕ•́ᴥ•̀ʔっ I’m Victoria Nguyen!
+## welcome ʕ•́ᴥ•̀ʔっ i’m victoria nguyen!
 
 <!--
 **victoriawng/victoriawng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I'm a senior at UIUC looking for my early career role in data
 - 🎓 I'm a senior at UIUC
 - ⚖️ I'm interested in the intersection of data science and social good
 - 🤔 Ready to take on the real world of data
