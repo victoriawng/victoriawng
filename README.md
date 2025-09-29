@@ -1,9 +1,13 @@
-## Hi there 👋
+## welcome ʕ•́ᴥ•̀ʔ
 
 <!--
 **victoriawng/victoriawng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🎓 I'm a senior at UIUC
+- ⚖️ I'm interested in the intersection of data science and social good
+- 🤔 Ready to take on the real world of data
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
