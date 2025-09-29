@@ -1,4 +1,4 @@
-## welcome ʕ•́ᴥ•̀ʔ
+## Welcome ʕ•́ᴥ•̀ʔっ I’m Victoria Nguyen!
 
 <!--
 **victoriawng/victoriawng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
