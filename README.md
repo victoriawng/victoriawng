@@ -1,3 +1,4 @@
 ## welcome ʕ•́ᴥ•̀ʔっ i’m victoria nguyen!
 🌺🌿*:･‎₊˚⊹
-- 🌱 I’m currently learning Google’s Data Analytics and Advanced Data Analytics courses
+- 🎒 a senior studying IS @ UIUC 
+- 🌱 currently learning Google’s Data Analytics and Advanced Data Analytics courses
